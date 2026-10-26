@@ -25,7 +25,7 @@ The application provides a graphical interface for exploring RSA public-key cryp
 - **Streamlit** — web-based user interface
 - **Cryptography** — cryptographic operations and key handling
 - **Base64** — encoding support
-- **PEM** — key storage format
+- **PEM (Privacy-Enhanced Mail)** — key storage format
 
 ## 🔑 Cryptographic Concepts
 
