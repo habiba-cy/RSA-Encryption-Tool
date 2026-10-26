@@ -1,0 +1,33 @@
+
+# Python virtual environment
+venv/
+.venv/
+
+# Private and public keys
+keys/
+
+# Activity logs
+logs/
+intrusion_logs.txt
+
+# Generated encrypted and signed files
+encrypted_message.bin
+signed_file.txt
+
+# Local plaintext/sample files
+plaintext.txt
+Plaintext2.txt
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
